@@ -30,7 +30,7 @@ export default class Education extends Component {
 												</p>
                                                     <ul>
                                                         <li>Current cGPA: 3.9</li>
-                                                        <li>Enrolled in programming, software and web application development courses – C#/./NET, Java, Software Process Manager 
+                                                        <li>Enrolled in programming, software and web application development courses – C#/.NET, Java, Software Process Manager 
                                                             (Git, Jenkins), Database Management, Mobile Web Development, etc.
 														</li>
                                                     </ul>
