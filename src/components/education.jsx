@@ -25,13 +25,13 @@ export default class Education extends Component {
                                             </div>
                                             <div id="collapseTwo" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                 <div className="panel-body">
-                                                    <p>Currently, I am a second-year student at Sheridan College studying Software Development and Network Engineering (Co-op). My goal
+                                                    <p>Currently, I am a third-year student at Sheridan College studying Software Development and Network Engineering (Co-op). My goal
                                                     is to learn best software development practices and apply them to real world scenarios to help scale products.
 												</p>
                                                     <ul>
                                                         <li>Current cGPA: 3.9</li>
-                                                        <li>Enrolled in programming, software and web application development courses – Java, Software and Interactive User Design,
-                                                        Web Programming (JavaScript/PHP), Database Management, etc.
+                                                        <li>Enrolled in programming, software and web application development courses – C#/./NET, Java, Software Process Manager 
+                                                            (Git, Jenkins), Database Management, Mobile Web Development, etc.
 														</li>
                                                     </ul>
                                                 </div>

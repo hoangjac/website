@@ -15,18 +15,18 @@ export default class Experience extends Component {
                         <div className="row">
                             <div className="col-md-12">
                                 <div className="timeline-centered">
-                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                                        <div className="timeline-entry-inner">
 
-                                            <div className="timeline-icon color-1">
+                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                                        <div className="timeline-entry-inner">
+                                            <div className="timeline-icon color-2">
                                                 <i className="icon-pen2"></i>
                                             </div>
-
                                             <div className="timeline-label">
-                                                <h2>Data Intern<span>Jan 2020 - Present</span> <br />Startup Blink</h2>
-                                                <p>Startup Blink is a comprehensive startup ecosystem map and research center.</p>
-                                                <p>At Start Blink, I help with research and data analysis. My passion for learning about startups and technology have allowed me to contribute to startup ecosystem
-                                                reports and discovering innovations to be mapped. We are currently in the process of releasing our 2020 Annual Startup Ecosystem Report.
+                                                <h2>Quality Engineer<span>Sept 2020 - Dec 2020</span> <br />RBC</h2>
+                                                <p>RBC is one of Canada's largest financial services company and largest bank by market capitalization. The bank servers over 16 million clients worldwide.</p>
+                                                <p>As a Quality Engineer, my responsibilities were to help design and develop internal testing tools to help with data masking and downtime tracking. 
+                                                    I helped developed applications in C# and .NET. In addition, I helped with extracting, transforming, and loading data from Excel into SQL Server Databases. 
+                                                    Other software tools I utilized includes Visio and Visual Paradigm to help with database design and mapping entity-relations.
                                                 </p>
                                             </div>
                                         </div>
@@ -38,10 +38,25 @@ export default class Experience extends Component {
                                                 <i className="icon-pen2"></i>
                                             </div>
                                             <div className="timeline-label">
-                                                <h2>Database Administrator<span>May 2019 - Present</span> <br />Enbridge Inc.</h2>
+                                                <h2>Database Administrator<span>May 2019 - Sept 2020</span> <br />Enbridge Inc.</h2>
                                                 <p>Enbridge is a North American leader in delivering energy and has been ranked on the Global 100 Most Sustainable Corporations index for the past eight years.</p>
                                                 <p>As a Database Administrator, my responsiblities include trouble shooting databases, refreshing environments, monitoring and analyzing databases, and provide support
                                                     services to customers who work with our databases. 
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+
+                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="timeline-entry-inner">
+                                            <div className="timeline-icon color-1">
+                                                <i className="icon-pen2"></i>
+                                            </div>
+                                            <div className="timeline-label">
+                                                <h2>Data Intern<span>Jan 2020 - June 2016</span> <br />Startup Blink</h2>
+                                                <p>Startup Blink is a comprehensive startup ecosystem map and research center.</p>
+                                                <p>At Start Blink, I help with research and data analysis. My passion for learning about startups and technology have allowed me to contribute to startup ecosystem
+                                                reports and discovering innovations to be mapped. We are currently in the process of releasing our 2020 Annual Startup Ecosystem Report.
                                                 </p>
                                             </div>
                                         </div>

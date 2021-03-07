@@ -13,7 +13,7 @@ export default class About extends Component {
 									<div className="about-desc">
 										<span className="heading-meta">About</span>
 										<h2 className="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hi I'm Jack Hoang</strong> I am a second year Software Development student studying at Sheridan College. I have a passion and curiosity about IT research, software development, healthcare, and startups. </p>
+										<p><strong>Hi I'm Jack Hoang</strong> I am a third year Software Development student studying at Sheridan College. I have a passion and curiosity about IT research, software development, healthcare, and startups. </p>
 										<p>I have started this as a project to gather my ideas, thoughts, projects and achievements, and use this as a way to display to my growth over the next couple of years.</p>
 									</div>
 								</div>
@@ -37,7 +37,7 @@ export default class About extends Component {
 								</span>
 								<div className="desc">
 									<h3>Technical</h3>
-									<p>Java, SQL, Oracle, React, Linux Command Line, HTML/CSS/Javascript </p>
+									<p>C#, C, Java, SQL, Oracle, React, Linux/Unix, HTML/CSS/Javascript, Git </p>
 								</div>
 							</div>
 						</div>
@@ -59,7 +59,7 @@ export default class About extends Component {
 								</span>
 								<div className="desc">
 									<h3>Software</h3>
-									<p>Microsoft Office, Visio, Project, Visual Studio Code, Github, Toad </p>
+									<p>Microsoft Office, Visio, Project, Visual Studio, Github, Toad, Jenkins </p>
 								</div>
 							</div>
 						</div>
