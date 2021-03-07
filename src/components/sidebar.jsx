@@ -34,7 +34,7 @@ export default class Sidebar extends Component {
 
                         <nav id="colorlib-main-menu">
                             <ul>
-                                <li className="social"><a href="https://github.com/hoangjac/projects" target="_blank" rel="noopener noreferrer"><i class="icon-github" /></a></li>
+                                <li className="social"><a href="https://github.com/hoangjac/" target="_blank" rel="noopener noreferrer"><i class="icon-github" /></a></li>
                                 <li className="social"><a href="https://www.linkedin.com/in/jackhoang1/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                                 <li className="social"><a href="https://www.instagram.com/jackhoang/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                                 <li className="social"><a href="https://www.facebook.com/jakhoang" target="_blank" rel="noopener noreferrer"><i class="icon-facebook22" /></a></li>
